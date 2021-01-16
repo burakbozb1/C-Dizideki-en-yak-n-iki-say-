@@ -1,4 +1,4 @@
-# C-Dizideki-en-yak-n-iki-say-
+# C-Dizideki en yakın iki sayı (Sırasız ve Sıralı Dizi)
 Dizi içerisindeki en yakın iki sayıyı farklı iki yöntem ve iki farklı zaman karmaşıklığında bulan c kodlarıdır.
 
 Bu kodlar time complexity'ye dikkat çekmek amacıyla yazılmıştır. Aynı işlemler farklı zaman karmaşılıklarında çözülebilmektedir.
