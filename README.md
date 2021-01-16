@@ -12,4 +12,6 @@ fakat eğer dizi sıralı olsaydı tek turda bu sayı çiftini bulabilecektik.
 İkinci yöntemde ise dizi merge sort ile sıralandıktan sonra bir kez dönülerek bu sayılara ulaşılmıştır. Merge sort ile sıralanırken karmaşıklığımız NLogN olacaktır. 
 Dizi sıralandıktan sonra sıralı ikilileri karşılaştırarak en yakın iki sayı belirlenebilir.
 
+Ayrıntılı bilgi için Rapor.pdf dosyasını inceleeyebilirsiniz.
+
 Sorularınız için sosyal medya hesaplarıma @burakbozb1 kullanıcı adı ile ulaşabilirsiniz.
